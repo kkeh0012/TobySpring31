@@ -1061,3 +1061,190 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2023-03-05 17:45:34,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
 2023-03-05 17:45:34,243 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-03-05 17:45:34,244 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 17:47:18,129 [Worker-25: Fetching remote refs from http://github.com/kkeh0012/TobySpring31.git] INFO  o.e.jgit.transport.TransportHttp - URI 'http://github.com/kkeh0012/TobySpring31.git': following HTTP redirect #0  http://github.com/kkeh0012/TobySpring31.git/ -> https://github.com/kkeh0012/TobySpring31.git/
+2023-03-05 17:47:19,860 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'http://github.com/kkeh0012/TobySpring31.git': following HTTP redirect #0  http://github.com/kkeh0012/TobySpring31.git/ -> https://github.com/kkeh0012/TobySpring31.git/
+2023-03-05 17:47:22,509 [Worker-18: Push to http://github.com/kkeh0012/TobySpring31.git] INFO  o.e.jgit.transport.TransportHttp - URI 'http://github.com/kkeh0012/TobySpring31.git': following HTTP redirect #0  http://github.com/kkeh0012/TobySpring31.git/ -> https://github.com/kkeh0012/TobySpring31.git/
+2023-03-05 17:57:07,700 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 17:57:07,701 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 17:57:07,702 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 17:57:07,703 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:00:27,402 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringWebMaben_01:SpringWebMaben_01:0.0.1-SNAPSHOT @ E:\workspace-spring\SpringWebMaben_01\pom.xml.
+2023-03-05 18:00:27,790 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.pom
+2023-03-05 18:00:27,832 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.pom
+2023-03-05 18:00:27,875 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2023-03-05 18:00:27,907 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2023-03-05 18:00:27,950 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2023-03-05 18:00:27,981 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2023-03-05 18:00:28,018 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2023-03-05 18:00:28,052 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2023-03-05 18:00:28,104 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2023-03-05 18:00:28,148 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.jar
+2023-03-05 18:00:28,525 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2023-03-05 18:00:28,592 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.jar
+2023-03-05 18:00:29,829 [Worker-38: Launching AuthenticatedUserRealm] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:29,830 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:00:29,831 [Worker-38: Launching AuthenticatedUserRealm] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:29,833 [Worker-38: Launching AuthenticatedUserRealm] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:00:30,167 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20-sources.jar
+2023-03-05 18:00:30,447 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20-sources.jar
+2023-03-05 18:00:30,547 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.20
+2023-03-05 18:00:30,662 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2023-03-05 18:00:30,668 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:30,669 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:00:30,671 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:30,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:00:30,800 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2023-03-05 18:00:30,893 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.6.1
+2023-03-05 18:00:30,917 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.6.1
+2023-03-05 18:00:31,820 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:31,821 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:00:31,822 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:00:31,823 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:04:15,497 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:04:15,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:04:15,500 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:04:15,500 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:06:29,066 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:06:29,067 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:06:29,068 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:06:29,069 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:10:44,427 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:10:44,428 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:10:44,429 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:10:44,430 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:11:32,968 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:11:32,970 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:11:32,971 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:11:32,972 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:11:40,745 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:11:40,747 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:11:40,750 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:11:40,751 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:14:12,380 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:14:12,381 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:14:12,382 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:14:12,383 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:15:41,849 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:15:41,849 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:15:41,851 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:15:41,852 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:15:57,437 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:15:57,438 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:15:57,440 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:15:57,441 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:16:11,252 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:16:11,254 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:16:11,255 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:16:11,256 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:16:38,440 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:16:38,441 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:16:38,443 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:16:38,444 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:19:50,914 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:19:50,915 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:19:50,916 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:19:50,917 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:20:43,115 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:20:43,116 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:20:43,117 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:20:43,118 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:23:24,125 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:23:24,127 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:23:24,131 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:23:24,132 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:24:37,266 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:24:37,267 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:24:37,268 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:24:37,269 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:25:08,471 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:25:08,472 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:25:08,474 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:25:08,475 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:26:10,582 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:26:10,583 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:26:10,584 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:26:10,585 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:26:35,689 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:26:35,690 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:26:35,691 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:26:35,692 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:30:10,724 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:10,725 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:30:10,726 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:10,727 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:30:30,518 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:30,519 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:30:30,521 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:30,522 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:30:39,359 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:39,360 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:30:39,362 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:30:39,363 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:35:12,384 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringWebMaben_01:SpringWebMaben_01:0.0.1-SNAPSHOT @ E:\workspace-spring\SpringWebMaben_01\pom.xml.
+2023-03-05 18:35:12,817 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:35:12,818 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:35:12,820 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:35:12,821 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:35:54,126 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:35:54,128 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:35:54,129 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:35:54,131 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:38:47,355 [Worker-55: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:38:47,357 [Worker-55: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:38:47,358 [Worker-55: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:38:47,360 [Worker-55: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:39:34,238 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:39:34,239 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:39:34,240 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:39:34,242 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:42:57,020 [Worker-53: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:42:57,021 [Worker-53: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:42:57,022 [Worker-53: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:42:57,023 [Worker-53: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:44:35,530 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:35,531 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:44:35,532 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:35,533 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:44:41,159 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:41,160 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:44:41,161 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:41,162 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:44:56,364 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:56,365 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:44:56,367 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:56,368 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:44:57,439 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:57,440 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:44:57,440 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:44:57,441 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:47:39,725 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringWebMaben_01:SpringWebMaben_01:0.0.1-SNAPSHOT @ E:\workspace-spring\SpringWebMaben_01\pom.xml.
+2023-03-05 18:47:39,881 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.31/mysql-connector-java-8.0.31.pom
+2023-03-05 18:47:39,908 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.31/mysql-connector-java-8.0.31.pom
+2023-03-05 18:47:39,942 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2023-03-05 18:47:39,966 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2023-03-05 18:47:40,027 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.pom
+2023-03-05 18:47:40,051 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.pom
+2023-03-05 18:47:40,079 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.19.4/protobuf-parent-3.19.4.pom
+2023-03-05 18:47:40,102 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.19.4/protobuf-parent-3.19.4.pom
+2023-03-05 18:47:40,130 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.19.4/protobuf-bom-3.19.4.pom
+2023-03-05 18:47:40,164 [Worker-57: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.19.4/protobuf-bom-3.19.4.pom
+2023-03-05 18:47:40,194 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-03-05 18:47:40,214 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+2023-03-05 18:47:40,234 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2023-03-05 18:47:40,473 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+2023-03-05 18:47:40,516 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2023-03-05 18:47:41,147 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:47:41,148 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:47:41,149 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:47:41,150 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
+2023-03-05 18:47:41,772 [Worker-58: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-03-05 18:47:41,839 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31-sources.jar
+2023-03-05 18:47:41,990 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31-sources.jar
+2023-03-05 18:47:42,177 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.31
+2023-03-05 18:47:42,237 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4-sources.jar
+2023-03-05 18:47:42,368 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4-sources.jar
+2023-03-05 18:47:42,480 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.19.4
+2023-03-05 18:47:42,831 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:47:42,832 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\main\resources
+2023-03-05 18:47:42,834 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-05 18:47:42,835 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace-spring\SpringWebMaben_01\src\test\resources
